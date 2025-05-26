@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/155607793851302450/fa23a3a7cf7940119ca74d7aaf0b3bcf/artifacts
+deleted_time: 1748244236740
+end_time: null
+entry_point_name: ''
+experiment_id: '155607793851302450'
+lifecycle_stage: deleted
+run_id: fa23a3a7cf7940119ca74d7aaf0b3bcf
+run_name: clean-shoat-696
+run_uuid: fa23a3a7cf7940119ca74d7aaf0b3bcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748004738314
+status: 1
+tags: []
+user_id: dell
