@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/155607793851302450/9ae301f4977c4145ab44463a1d3c1a5a/artifacts
+deleted_time: 1748244236748
+end_time: 1748016542626
+entry_point_name: ''
+experiment_id: '155607793851302450'
+lifecycle_stage: deleted
+run_id: 9ae301f4977c4145ab44463a1d3c1a5a
+run_name: bustling-gnat-457
+run_uuid: 9ae301f4977c4145ab44463a1d3c1a5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748012998809
+status: 3
+tags: []
+user_id: dell

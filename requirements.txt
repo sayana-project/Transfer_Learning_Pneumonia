@@ -2,3 +2,9 @@ numpy
 matplotlib
 tensorflow
 opencv-python
+mlflow
+cv2
+pathlib
+sklearn
+mlflow
+seaborn

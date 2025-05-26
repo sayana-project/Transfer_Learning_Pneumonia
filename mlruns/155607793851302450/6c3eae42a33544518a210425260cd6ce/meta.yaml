@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/155607793851302450/6c3eae42a33544518a210425260cd6ce/artifacts
+deleted_time: 1748243885396
+end_time: 1748001252465
+entry_point_name: ''
+experiment_id: '155607793851302450'
+lifecycle_stage: deleted
+run_id: 6c3eae42a33544518a210425260cd6ce
+run_name: rare-eel-822
+run_uuid: 6c3eae42a33544518a210425260cd6ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748001247978
+status: 4
+tags: []
+user_id: dell

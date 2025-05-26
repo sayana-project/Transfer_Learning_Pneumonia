@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/155607793851302450/4c5ecec5377c4dc3a9db0c8f4ef4e750/artifacts
+end_time: 1748004705016
+entry_point_name: ''
+experiment_id: '155607793851302450'
+lifecycle_stage: active
+run_id: 4c5ecec5377c4dc3a9db0c8f4ef4e750
+run_name: spiffy-skink-234
+run_uuid: 4c5ecec5377c4dc3a9db0c8f4ef4e750
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748001337220
+status: 3
+tags: []
+user_id: dell

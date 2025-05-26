@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/155607793851302450/aa27429446a64101acf81bf36b233783/artifacts
+deleted_time: 1748244236748
+end_time: 1748001213951
+entry_point_name: ''
+experiment_id: '155607793851302450'
+lifecycle_stage: deleted
+run_id: aa27429446a64101acf81bf36b233783
+run_name: bald-shrike-930
+run_uuid: aa27429446a64101acf81bf36b233783
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747999463137
+status: 3
+tags: []
+user_id: dell
