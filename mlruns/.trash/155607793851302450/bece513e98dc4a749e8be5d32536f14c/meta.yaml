@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/155607793851302450/bece513e98dc4a749e8be5d32536f14c/artifacts
+deleted_time: 1748263871196
+end_time: 1748263331509
+entry_point_name: ''
+experiment_id: '155607793851302450'
+lifecycle_stage: deleted
+run_id: bece513e98dc4a749e8be5d32536f14c
+run_name: peaceful-mouse-376
+run_uuid: bece513e98dc4a749e8be5d32536f14c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748263184357
+status: 3
+tags: []
+user_id: dell

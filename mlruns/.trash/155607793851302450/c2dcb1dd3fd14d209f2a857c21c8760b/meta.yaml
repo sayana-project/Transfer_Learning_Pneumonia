@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/155607793851302450/c2dcb1dd3fd14d209f2a857c21c8760b/artifacts
+deleted_time: 1748259806493
+end_time: null
+entry_point_name: ''
+experiment_id: '155607793851302450'
+lifecycle_stage: deleted
+run_id: c2dcb1dd3fd14d209f2a857c21c8760b
+run_name: treasured-pug-872
+run_uuid: c2dcb1dd3fd14d209f2a857c21c8760b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748256598691
+status: 1
+tags: []
+user_id: dell

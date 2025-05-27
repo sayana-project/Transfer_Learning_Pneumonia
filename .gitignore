@@ -172,3 +172,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# jupyter test
+notebook_jupyter_transfer_learning_CNN2.pynb

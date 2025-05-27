@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/845456507028104026
+creation_time: 1748264978792
+experiment_id: '845456507028104026'
+last_update_time: 1748264978792
+lifecycle_stage: active
+name: Pneumonia_TransferLearning_CNN

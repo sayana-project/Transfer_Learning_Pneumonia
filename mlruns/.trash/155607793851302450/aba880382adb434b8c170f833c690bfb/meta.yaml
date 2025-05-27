@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/155607793851302450/aba880382adb434b8c170f833c690bfb/artifacts
+deleted_time: 1748251746841
+end_time: null
+entry_point_name: ''
+experiment_id: '155607793851302450'
+lifecycle_stage: deleted
+run_id: aba880382adb434b8c170f833c690bfb
+run_name: serious-duck-602
+run_uuid: aba880382adb434b8c170f833c690bfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748246712373
+status: 1
+tags: []
+user_id: dell

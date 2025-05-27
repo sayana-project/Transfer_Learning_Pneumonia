@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/845456507028104026/82fddefd1ca54413ab6bdb44a5c949a3/artifacts
+deleted_time: 1748346689129
+end_time: 1748288422977
+entry_point_name: ''
+experiment_id: '845456507028104026'
+lifecycle_stage: deleted
+run_id: 82fddefd1ca54413ab6bdb44a5c949a3
+run_name: nosy-squirrel-968
+run_uuid: 82fddefd1ca54413ab6bdb44a5c949a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748288256482
+status: 3
+tags: []
+user_id: dell

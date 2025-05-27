@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/845456507028104026/d2296392e6724484b2cc71dae902c000/artifacts
+deleted_time: 1748330686536
+end_time: 1748330633353
+entry_point_name: ''
+experiment_id: '845456507028104026'
+lifecycle_stage: deleted
+run_id: d2296392e6724484b2cc71dae902c000
+run_name: MobileNetV3Small_V1
+run_uuid: d2296392e6724484b2cc71dae902c000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748330530107
+status: 4
+tags: []
+user_id: dell

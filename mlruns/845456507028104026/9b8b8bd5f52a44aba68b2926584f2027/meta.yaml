@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/845456507028104026/9b8b8bd5f52a44aba68b2926584f2027/artifacts
+deleted_time: 1748329309898
+end_time: 1748288249307
+entry_point_name: ''
+experiment_id: '845456507028104026'
+lifecycle_stage: deleted
+run_id: 9b8b8bd5f52a44aba68b2926584f2027
+run_name: inquisitive-goat-227
+run_uuid: 9b8b8bd5f52a44aba68b2926584f2027
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748288201939
+status: 4
+tags: []
+user_id: dell

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/845456507028104026/051a6e31841a471f819c21f98d134d79/artifacts
+end_time: 1748287503833
+entry_point_name: ''
+experiment_id: '845456507028104026'
+lifecycle_stage: active
+run_id: 051a6e31841a471f819c21f98d134d79
+run_name: silent-frog-494
+run_uuid: 051a6e31841a471f819c21f98d134d79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748287249587
+status: 3
+tags: []
+user_id: dell

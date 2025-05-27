@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/845456507028104026/5c459842eea14a8bb6ff56b42c8dd4ce/artifacts
+end_time: 1748344479794
+entry_point_name: ''
+experiment_id: '845456507028104026'
+lifecycle_stage: active
+run_id: 5c459842eea14a8bb6ff56b42c8dd4ce
+run_name: delicate-elk-628
+run_uuid: 5c459842eea14a8bb6ff56b42c8dd4ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748342985831
+status: 3
+tags: []
+user_id: dell

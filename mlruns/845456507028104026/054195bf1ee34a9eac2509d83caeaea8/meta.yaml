@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/845456507028104026/054195bf1ee34a9eac2509d83caeaea8/artifacts
+deleted_time: 1748346689136
+end_time: 1748329467929
+entry_point_name: ''
+experiment_id: '845456507028104026'
+lifecycle_stage: deleted
+run_id: 054195bf1ee34a9eac2509d83caeaea8
+run_name: unleashed-bird-481
+run_uuid: 054195bf1ee34a9eac2509d83caeaea8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748329265690
+status: 3
+tags: []
+user_id: dell
