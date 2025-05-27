@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/845456507028104026/c1fac640394d49b382de0cbedb6fc181/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '845456507028104026'
+lifecycle_stage: active
+run_id: c1fac640394d49b382de0cbedb6fc181
+run_name: clean-shrike-833
+run_uuid: c1fac640394d49b382de0cbedb6fc181
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748346897568
+status: 1
+tags: []
+user_id: dell

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/155607793851302450/fdc672379ce747158d2925df275de8cb/artifacts
+deleted_time: 1748252198448
+end_time: 1748251970036
+entry_point_name: ''
+experiment_id: '155607793851302450'
+lifecycle_stage: deleted
+run_id: fdc672379ce747158d2925df275de8cb
+run_name: caring-ape-630
+run_uuid: fdc672379ce747158d2925df275de8cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748251764631
+status: 4
+tags: []
+user_id: dell

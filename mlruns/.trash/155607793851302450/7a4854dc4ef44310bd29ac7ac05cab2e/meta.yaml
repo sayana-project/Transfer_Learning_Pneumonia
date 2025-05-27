@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/155607793851302450/7a4854dc4ef44310bd29ac7ac05cab2e/artifacts
+deleted_time: 1748263871196
+end_time: 1747999429560
+entry_point_name: ''
+experiment_id: '155607793851302450'
+lifecycle_stage: deleted
+run_id: 7a4854dc4ef44310bd29ac7ac05cab2e
+run_name: fun-eel-322
+run_uuid: 7a4854dc4ef44310bd29ac7ac05cab2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747995778586
+status: 3
+tags: []
+user_id: dell

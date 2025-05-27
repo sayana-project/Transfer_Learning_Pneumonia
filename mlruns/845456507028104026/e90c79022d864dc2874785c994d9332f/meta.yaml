@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/845456507028104026/e90c79022d864dc2874785c994d9332f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '845456507028104026'
+lifecycle_stage: active
+run_id: e90c79022d864dc2874785c994d9332f
+run_name: judicious-shark-61
+run_uuid: e90c79022d864dc2874785c994d9332f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748269502321
+status: 1
+tags: []
+user_id: dell

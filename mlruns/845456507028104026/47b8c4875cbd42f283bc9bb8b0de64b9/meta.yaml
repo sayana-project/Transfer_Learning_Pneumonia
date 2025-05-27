@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/845456507028104026/47b8c4875cbd42f283bc9bb8b0de64b9/artifacts
+deleted_time: 1748330686528
+end_time: 1748330528518
+entry_point_name: ''
+experiment_id: '845456507028104026'
+lifecycle_stage: deleted
+run_id: 47b8c4875cbd42f283bc9bb8b0de64b9
+run_name: merciful-croc-296
+run_uuid: 47b8c4875cbd42f283bc9bb8b0de64b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748330226609
+status: 4
+tags: []
+user_id: dell
