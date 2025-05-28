@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/845456507028104026/fce3c840585342f3a4b3da7f1188ba0f/artifacts
+end_time: 1748434335392
+entry_point_name: ''
+experiment_id: '845456507028104026'
+lifecycle_stage: active
+run_id: fce3c840585342f3a4b3da7f1188ba0f
+run_name: shivering-rat-284
+run_uuid: fce3c840585342f3a4b3da7f1188ba0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748433642216
+status: 3
+tags: []
+user_id: dell

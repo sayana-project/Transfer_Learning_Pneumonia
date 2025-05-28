@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/845456507028104026/0a596bf6d147413f9a08d7d8e6b619e7/artifacts
+end_time: 1748372175146
+entry_point_name: ''
+experiment_id: '845456507028104026'
+lifecycle_stage: active
+run_id: 0a596bf6d147413f9a08d7d8e6b619e7
+run_name: auspicious-hawk-125
+run_uuid: 0a596bf6d147413f9a08d7d8e6b619e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748372173813
+status: 3
+tags: []
+user_id: dell
