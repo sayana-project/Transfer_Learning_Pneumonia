@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/845456507028104026/9c73652da43f440b9c51d0d6a5d1a448/artifacts
+deleted_time: 1748436000072
+end_time: 1748433611074
+entry_point_name: ''
+experiment_id: '845456507028104026'
+lifecycle_stage: deleted
+run_id: 9c73652da43f440b9c51d0d6a5d1a448
+run_name: efficient-grub-674
+run_uuid: 9c73652da43f440b9c51d0d6a5d1a448
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748433602955
+status: 4
+tags: []
+user_id: dell

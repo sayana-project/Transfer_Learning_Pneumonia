@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/845456507028104026/f3bb54b1bb354e0ba49022c752e57cc5/artifacts
+end_time: 1748441803112
+entry_point_name: ''
+experiment_id: '845456507028104026'
+lifecycle_stage: active
+run_id: f3bb54b1bb354e0ba49022c752e57cc5
+run_name: densenet121l_V3
+run_uuid: f3bb54b1bb354e0ba49022c752e57cc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748434335479
+status: 3
+tags: []
+user_id: dell

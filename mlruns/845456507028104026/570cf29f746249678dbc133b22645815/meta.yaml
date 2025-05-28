@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/845456507028104026/570cf29f746249678dbc133b22645815/artifacts
+end_time: 1748373982149
+entry_point_name: ''
+experiment_id: '845456507028104026'
+lifecycle_stage: active
+run_id: 570cf29f746249678dbc133b22645815
+run_name: worried-skunk-68
+run_uuid: 570cf29f746249678dbc133b22645815
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748372704379
+status: 3
+tags: []
+user_id: dell

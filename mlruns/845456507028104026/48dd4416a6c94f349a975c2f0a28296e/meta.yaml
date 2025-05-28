@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/845456507028104026/48dd4416a6c94f349a975c2f0a28296e/artifacts
+end_time: 1748418168425
+entry_point_name: ''
+experiment_id: '845456507028104026'
+lifecycle_stage: active
+run_id: 48dd4416a6c94f349a975c2f0a28296e
+run_name: mercurial-trout-785
+run_uuid: 48dd4416a6c94f349a975c2f0a28296e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748416819506
+status: 3
+tags: []
+user_id: dell

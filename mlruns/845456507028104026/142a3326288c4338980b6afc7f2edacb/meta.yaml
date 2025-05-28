@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/845456507028104026/142a3326288c4338980b6afc7f2edacb/artifacts
+deleted_time: 1748417548205
+end_time: 1748385097163
+entry_point_name: ''
+experiment_id: '845456507028104026'
+lifecycle_stage: deleted
+run_id: 142a3326288c4338980b6afc7f2edacb
+run_name: bouncy-crab-564
+run_uuid: 142a3326288c4338980b6afc7f2edacb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748383822361
+status: 3
+tags: []
+user_id: dell
